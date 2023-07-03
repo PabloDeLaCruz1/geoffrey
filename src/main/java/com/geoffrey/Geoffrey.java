@@ -21,7 +21,7 @@ public class Geoffrey {
     public static void main(String[] args) throws Exception {
         // Prompt the user for an answer
         Scanner scanner = new Scanner(System.in);
-        System.out.println("What is your question? ");
+        System.out.println("What is your question?? ");
         String question = scanner.nextLine();
         scanner.close();
 
